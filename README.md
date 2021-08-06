@@ -2,7 +2,7 @@
 -HOW TO RUN THE PAYSLIP PROGRAM-
 1. Make sure you have Java jdk on your Program Files
 2. Using Command Prompt in Windows, change directory to the folder of the project
-3. in your command prompt type 
+3. in your command prompt type:
 
     java -jar payslip.jar [.csv file]
 
