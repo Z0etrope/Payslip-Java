@@ -4,14 +4,14 @@
 2. Using Command Prompt in Windows, change directory to the folder of the project
 3. in your command prompt type 
 
-java -jar payslip.jar [.csv file]
+    java -jar payslip.jar [.csv file]
 
-where [.csv file] is your csv file
-
-
+    where [.csv file] is your csv file
 
 
-- ASSUMPTIONS MADE DURING THE DEVELOPMENT - 
+
+
+ASSUMPTIONS MADE DURING THE DEVELOPMENT
 1. The supllied file will always be on the same folder as the .jar file (root folder)
 
 2. The format of the file will always be .csv
