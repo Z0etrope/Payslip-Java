@@ -17,7 +17,8 @@ ASSUMPTIONS MADE DURING THE DEVELOPMENT
 2. The format of the file will always be .csv
 
 3. The Layout of the .csv file will always be the same as supplied in the .docx
+input:
 Monica,Tan,60050,9%,01 March – 31 March 
 Brend,Tulu,120000,10%,01 March – 31 March 
 
-4.
+
