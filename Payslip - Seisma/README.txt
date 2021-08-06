@@ -5,7 +5,7 @@
 
 java -jar payslip.jar [.csv file]
 
-where [.csv file] is your csv file
+where [.csv file] is the name of your csv file with the extension (e.g. Data.csv)
 
 
 
@@ -15,8 +15,7 @@ where [.csv file] is your csv file
 
 2. The format of the file will always be .csv
 
-3. The Layout of the .csv file will always be the same as supplied in the .docx
+3. The Layout of the .csv file will always be the same as the format supplied in the .docx
 Monica,Tan,60050,9%,01 March – 31 March 
 Brend,Tulu,120000,10%,01 March – 31 March 
 
-4.
